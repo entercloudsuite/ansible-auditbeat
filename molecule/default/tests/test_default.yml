@@ -5,4 +5,4 @@ package:
 service:
   auditbeat:
     enabled: true
-    running: true
+    running: false
